@@ -56,6 +56,6 @@ submission = pd.DataFrame({
     'id':     test_ids,
     'result': final_predictions
 })
-submission.to_csv('submission/submission.csv', index=False)
+submission.to_csv('../submission/submission.csv', index=False)
 print(f"✅ Submission saved to submission/submission.csv ({len(submission)} rows)")
 print(submission.head())
