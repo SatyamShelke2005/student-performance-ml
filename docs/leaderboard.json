@@ -13,5 +13,10 @@
     "group": "Omk26",
     "f1_score": 0.9403,
     "accuracy": 0.8987
+  },
+  {
+    "group": "mathwadswaraj16-cpu",
+    "f1_score": 0.9403,
+    "accuracy": 0.8987
   }
 ]
